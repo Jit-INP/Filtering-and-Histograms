@@ -1,2 +1,2 @@
 # Filtering-and-Histograms
-Image Processing using C
+Image Processing using different filtering techniques implemented in C
